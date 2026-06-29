@@ -45,7 +45,7 @@ Note: Windows may show a warning because the app is unsigned.
 
 Go to the **Releases** section and download:
 
-**EclipseCalculator APK**
+**app-release.apk**
 
 Install the `.apk` file on your Android device.
 
